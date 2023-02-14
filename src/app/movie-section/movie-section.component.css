@@ -1,0 +1,16 @@
+.card-group{
+     margin-top: 30px;
+}
+#card{
+    margin-left: 10px;
+    border: 1px white solid;
+}
+.card-point{
+    color: yellow;
+}
+.card-name{
+    color: white;
+}
+h3{
+    color: white;
+}
